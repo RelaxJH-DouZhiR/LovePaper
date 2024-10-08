@@ -37,3 +37,13 @@ TypeFix通过挖掘修复模板并将其融入预训练模型的提示中，有�
 [Mahmud, Junayed, et al. "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3608139.md)
 
 本研究通过整合GUI信息到基于文本检索的缺陷定位技术中，显著提升了面向用户应用的缺陷定位准确性，特别是在提高相关文件排名和筛选无关文件方面。
+
+---
+
+## ECFuzz: Effective Configuration Fuzzing for Large-Scale Systems
+
+>ECFuzz: 针对大型系统的有效配置模糊测试
+
+[Li, Junqiang, et al. "ECFuzz: Effective Configuration Fuzzing for Large-Scale Systems." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623315.md)
+
+ECFuzz通过多维度配置生成和单元测试验证策略，有效解决了大型系统配置测试中的组合爆炸问题，显著提升了配置引发错误的检测效率和数量。
