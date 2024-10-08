@@ -1,6 +1,6 @@
 # Papers on Software Engineering Interest
 
-**Remark**：此库仅用于收集一些有趣软件工程论文的总结，全部使用LLM生成，人工修正部分已通过<u>下划线</u>标注，欢迎PR。
+**Remark**：此库仅用于收集一些有趣软件工程论文的总结，全部使用LLM生成，人工修正部分已通过*斜体*标注，欢迎PR。
 
 Main Repo: [https://github.com/RelaxJH-DouZhiR/SEPaper](https://github.com/RelaxJH-DouZhiR/SEPaper)
 
