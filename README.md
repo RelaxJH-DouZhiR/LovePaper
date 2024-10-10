@@ -47,3 +47,13 @@ TypeFix通过挖掘修复模板并将其融入预训练模型的提示中，有�
 [Li, Junqiang, et al. "ECFuzz: Effective Configuration Fuzzing for Large-Scale Systems." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623315.md)
 
 ECFuzz通过多维度配置生成和单元测试验证策略，有效解决了大型系统配置测试中的组合爆炸问题，显著提升了配置引发错误的检测效率和数量。
+
+---
+
+## Improving Testing Behavior by Gamifying IntelliJ
+
+> 通过对IntelliJ进行游戏化来改进测试行为
+
+[Straubinger, Philipp, and Gordon Fraser. "Improving Testing Behavior by Gamifying IntelliJ." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623339.md)
+
+IntelliGame是IntelliJ IDE的游戏化插件，通过成就系统鼓励开发人员进行更多有效的测试，实验证明能显著提升测试质量和频率。
