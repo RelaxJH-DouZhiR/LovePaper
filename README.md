@@ -54,7 +54,7 @@ ECFuzz通过多维度配置生成和单元测试验证策略，有效解决了�
 
 > 通过对IntelliJ进行游戏化来改进测试行为
 
-[Straubinger, Philipp, and Gordon Fraser. "Improving Testing Behavior by Gamifying IntelliJ." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623339.md)
+[Straubinger, et al. "Improving Testing Behavior by Gamifying IntelliJ." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623339.md)
 
 IntelliGame是IntelliJ IDE的游戏化插件，通过成就系统鼓励开发人员进行更多有效的测试，实验证明能显著提升测试质量和频率。
 
@@ -67,3 +67,13 @@ IntelliGame是IntelliJ IDE的游戏化插件，通过成就系统鼓励开发人
 [Wei, Jason, et al. "Chain-of-thought prompting elicits reasoning in large language models." Advances in neural information processing systems 35 (2022): 24824-24837.](paper/Chain-of-Thought%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.md)
 
 通过“思维链提示”方法，大型语言模型在复杂推理任务上的表现显著提升，仅需少量示例即可大幅提高解题准确率。
+
+---
+
+## CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models
+
+>CoderEval: 基于生成预训练模型的实用代码生成基准测试
+
+[Yu, Hao, et al. "Codereval: A benchmark of pragmatic code generation with generative pre-trained models." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623316.md)
+
+CoderEval是新提出的代码生成评估基准，包含460个Python和Java任务，强调非独立函数的生成，以更真实地评估模型在实际编程场景中的表现。
