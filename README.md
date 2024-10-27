@@ -77,3 +77,13 @@ IntelliGame是IntelliJ IDE的游戏化插件，通过成就系统鼓励开发人
 [Yu, Hao, et al. "Codereval: A benchmark of pragmatic code generation with generative pre-trained models." Proceedings of the 46th IEEE/ACM International Conference on Software Engineering. 2024.](paper/10.1145-3597503.3623316.md)
 
 CoderEval是新提出的代码生成评估基准，包含460个Python和Java任务，强调非独立函数的生成，以更真实地评估模型在实际编程场景中的表现。
+
+---
+
+## DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation
+
+> DistillSeq：一种基于知识蒸馏的大型语言模型安全对齐测试框架
+
+[Yang, Mingke, et al. "DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680304.md)
+
+研究提出DistillSeq方法，通过将大型语言模型的审核知识转移到小模型，结合语法树和LLM生成恶意查询，显著提升大型语言模型的测试效率和攻击成功率，减少资源消耗。
