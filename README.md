@@ -87,3 +87,13 @@ CoderEval是新提出的代码生成评估基准，包含460个Python和Java任�
 [Yang, Mingke, et al. "DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680304.md)
 
 研究提出DistillSeq方法，通过将大型语言模型的审核知识转移到小模型，结合语法树和LLM生成恶意查询，显著提升大型语言模型的测试效率和攻击成功率，减少资源消耗。
+
+---
+
+## An empirical study of static analysis tools for secure code review
+
+> 静态分析工具在安全代码审查中的实证研究
+
+[Charoenwet, Wachiraphan, et al. "An empirical study of static analysis tools for secure code review." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680313.md)
+
+本研究评估了SAST在C/C++代码审查中的有效性，发现其可识别52%的漏洞，优先处理警告函数可提高准确性，但大多数警告与实际漏洞无关，揭示了SAST的局限性和未来改进的方向。
