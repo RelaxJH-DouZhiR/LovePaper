@@ -97,3 +97,13 @@ CoderEval是新提出的代码生成评估基准，包含460个Python和Java任�
 [Charoenwet, Wachiraphan, et al. "An empirical study of static analysis tools for secure code review." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680313.md)
 
 本研究评估了SAST在C/C++代码审查中的有效性，发现其可识别52%的漏洞，优先处理警告函数可提高准确性，但大多数警告与实际漏洞无关，揭示了SAST的局限性和未来改进的方向。
+
+---
+
+## Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT
+
+> 通过对话进行自动程序修复：使用ChatGPT以每个修复$0.42的成本修复337个错误中的162个
+
+[Xia, Chunqiu Steven, and Lingming Zhang. "Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680323.md)
+
+ChatRepair是一种基于对话驱动的自动程序修复方法，通过结合测试失败信息与补丁生成，避免重复错误，提升修复成功率。其在Defects4j数据集上表现出色，每个修复成本为$0.42。
