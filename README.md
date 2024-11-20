@@ -39,3 +39,6 @@ Main Repo: [https://github.com/RelaxJH-DouZhiR/SEPaper](https://github.com/Relax
 
 [Xia, Chunqiu Steven, and Lingming Zhang. "Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680323.md)
 > 通过对话进行自动程序修复：使用ChatGPT以每个修复$0.42的成本修复337个错误中的162个
+
+[Sun, Zhensu, et al. "AI Coders Are Among Us: Rethinking Programming Language Grammar Towards Efficient Code Generation." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680347.md)
+>AI程序员在我们身边：重新思考编程语言语法以实现高效代码生成
