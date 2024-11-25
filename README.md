@@ -42,3 +42,6 @@ Main Repo: [https://github.com/RelaxJH-DouZhiR/SEPaper](https://github.com/Relax
 
 [Sun, Zhensu, et al. "AI Coders Are Among Us: Rethinking Programming Language Grammar Towards Efficient Code Generation." Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.](paper/10.1145-3650212.3680347.md)
 >AI程序员在我们身边：重新思考编程语言语法以实现高效代码生成
+
+[Alshahwan, Nadia, et al. "Automated unit test improvement using large language models at meta." Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering. 2024.](paper/10.1145-3663529.3663839.md)
+>使用大语言模型在 Meta 实现自动化单元测试改进
