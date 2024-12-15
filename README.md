@@ -1,8 +1,8 @@
 # Papers on Software Engineering Interest
 
-**Remark**：此库仅用于收集一些有趣软件工程论文的总结，全部使用LLM生成，人工修正部分已通过*斜体*标注，欢迎PR。
+**Remark**：此库仅用于收集一些有趣论文的总结，全部使用LLM生成，人工修正部分已通过*斜体*标注，欢迎PR。
 
-Main Repo: [https://github.com/RelaxJH-DouZhiR/SEPaper](https://github.com/RelaxJH-DouZhiR/SEPaper)
+Main Repo: [https://github.com/RelaxJH-DouZhiR/LovePaper](https://github.com/RelaxJH-DouZhiR/LovePaper)
 
 # Framework
 
@@ -45,3 +45,6 @@ Main Repo: [https://github.com/RelaxJH-DouZhiR/SEPaper](https://github.com/Relax
 
 [Alshahwan, Nadia, et al. "Automated unit test improvement using large language models at meta." Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering. 2024.](paper/10.1145-3663529.3663839.md)
 >使用大语言模型在 Meta 实现自动化单元测试改进
+
+[Yang, Cheng-Yen, et al. "Samurai: Adapting segment anything model for zero-shot visual tracking with motion-aware memory." arXiv preprint arXiv:2411.11922 (2024).](paper/arXiv-2411.11922.md)
+>武士：将任意物体分割模型应用于零样本视觉跟踪与运动感知记忆的适应
